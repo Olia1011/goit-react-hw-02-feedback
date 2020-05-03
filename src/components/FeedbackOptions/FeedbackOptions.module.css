@@ -1,0 +1,10 @@
+.optionBtn {
+    margin-right: 10px;
+    border-radius: 7px;
+    border: 1px solid grey;
+    outline: none;
+  }
+
+.optionBtn:hover{
+    background-color: rgb(48, 114, 236);
+}
